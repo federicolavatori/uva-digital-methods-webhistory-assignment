@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "uva-digital-methods-webhistory-assignment"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+readme = "README.md"
+packages = [{include = "uva_digital_methods_webhistory_assignment"}]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
