@@ -20,7 +20,7 @@ const filenameOption = args[2] || 'title'; // filenameOption will be 'title' if 
   await page.setViewport({ width: 1024, height: 768 });
 
   try {
-    await page.goto(url, { waitUntil: 'networkidle0', timeout: 30000 });
+    await page.goto(url, { waitUntil: 'networkidle0', timeout: 3000000 });
   } catch (error) {
     console.error(`Failed to load URL: ${url}, Error: ${error}`);
     await browser.close();
