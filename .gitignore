@@ -130,4 +130,12 @@ dist
 .pnp.*
 
 # screenshots
-screens/
+screen_linkedin_month/
+
+#Pycharm
+.idea/
+
+# Mac Stuff
+.DS_Store
+
+
