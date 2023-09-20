@@ -1,6 +1,6 @@
-## Digital Methods - Web History Assignment 
+# Digital Methods - Web History Assignment 
 
-# Data Preparation
+## Data Preparation
 
 Following what is described [here](https://www.soothsawyer.com/how-to-take-full-page-screenshot-from-list-of-urls/) we performed the following steps:
 
@@ -11,7 +11,7 @@ Following what is described [here](https://www.soothsawyer.com/how-to-take-full-
 5. Run: bash grab_all.sh 
 
 
-# Data Analysis
+## Data Analysis
 
 We investigated how webpages changes across time by computing:
 - Text similarity comparing extracted webpages as html
