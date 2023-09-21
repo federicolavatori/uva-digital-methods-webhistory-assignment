@@ -131,11 +131,18 @@ dist
 
 # screenshots
 screen_linkedin_month/
+screen_linkedin_month_clean
+screen_linkedin_month_resize
 
 #Pycharm
 .idea/
 
 # Mac Stuff
 .DS_Store
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
 
 

@@ -4,10 +4,16 @@ version = "0.1.0"
 description = ""
 authors = ["Your Name <you@example.com>"]
 readme = "README.md"
-packages = [{include = "uva_digital_methods_webhistory_assignment"}]
 
 [tool.poetry.dependencies]
-python = "^3.8"
+python = "3.9.1"
+opencv-python = "^4.8.0.76"
+scikit-image = ">=0.20.0,<0.21.0"
+scipy = ">=1.8,<1.9.2"
+image-similarity-measures = "^0.3.6"
+pandas = "^2.1.1"
+pyfftw = "^0.13.1"
+matplotlib = "^3.8.0"
 
 
 [build-system]
