@@ -13,5 +13,5 @@ Following what is described [here](https://www.soothsawyer.com/how-to-take-full-
 
 ## Data Analysis
 Make sure you prepare a local environment in python with poetry to run this section. The analysis consists of two main activities:
-- Resizing the pictures to have a uniform size across all the sample.
+- Resizing the pictures to have a uniform size across all the sample
 - Investigated how webpages changes across time by computing similarity and dissimilarity measures as described [here](https://up42.com/blog/image-similarity-measures)
